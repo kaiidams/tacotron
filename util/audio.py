@@ -3,7 +3,7 @@ import librosa.filters
 import math
 import numpy as np
 import tensorflow as tf
-import scipy
+import scipy.io.wavfile
 from hparams import hparams
 
 
